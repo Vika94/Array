@@ -134,7 +134,7 @@ public class MultiArray {
         */
         //5)Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й
         //строкой и т. д.)
-        /*System.out.print("Введите размер массива: ");
+        System.out.print("Введите размер массива: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         Random random = new Random();
@@ -166,7 +166,7 @@ public class MultiArray {
             System.out.println();
         }
 
-         */
+
     }
 }
 
